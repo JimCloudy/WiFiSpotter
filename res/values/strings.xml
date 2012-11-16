@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">WiFi Spotter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+    
+    <string name="txtSSID">SSID</string>
+    <string name="txtCapabilities">Capabilities</string>
+    <string name="txtLevel">Level</string>
+
+</resources>
